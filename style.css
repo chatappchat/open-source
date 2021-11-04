@@ -1,3 +1,54 @@
-body {
-background-image: CAL.png;
+.page {
+  background-color: white;
+  border-radius: 7px;
+}
+.main {
+  background-color: darkseagreen;
+  padding: 30px;
+}
+.warn {
+  font-family: cursive;
+  color: white;
+  background-color: maroon;
+  border-radius: 7px;
+}
+.buttons {
+  background-color: gray;
+  border-radius: 0px;
+  padding: 15px;
+}
+.pagebutton {
+  color: white;
+  background-color: darkgray;
+  text-decoration: none;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: lightgray;
+  padding: 5px;
+  font-family: cursive;
+}
+.page2 {
+  background-color: white;
+  padding: 20px;
+  border-radius: 7px;
+}
+.gameinfopageb {
+  background-color: #E9FFAF;
+  border-radius: 7px;
+  width: 300px;
+  padding: 15px;
+}
+.title {
+  font-family: cursive;
+}
+.info {
+  font-family: cursive;
+}
+.gameinfopagedesc {
+  font-family: cursive;
+}
+.plink {
+  font-family: cursive;
+  color: black;
+  text-decoration-style: dotted;
 }
