@@ -6,9 +6,9 @@ Some Chatapp app versions are no longer supported, you can see which ones are su
 | ------- | --------- |
 | Chatapp 6 | ❗ BETA |
 | Chatapp 2021 | ✅ |
-| Chatapp 4 | ✅ |
-| ChatApp Chapter 3 | ✅ |
-| ChatApp Chapter 2 | ✅ |
+| Chatapp 4 | :x: |
+| ChatApp Chapter 3 | :x: |
+| ChatApp Chapter 2 | :x: |
 | ChatApp Chatrooms 2 | :x: |
 | ChatApp Chatrooms 1 | :x: |
 | ChatApp Legacy | :x: |
